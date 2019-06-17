@@ -1,4 +1,4 @@
-var dataTicketDailyByActionObj = [
+var dataTicketDailyByActionObjRaw = [
 {
     "mthData": 20180521,
     "dayDate": 21,
